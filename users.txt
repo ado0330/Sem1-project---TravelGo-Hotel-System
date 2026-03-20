@@ -1,0 +1,10 @@
+U001	Amir Rahman	Malaysia	Selangor	amir.rahman@aol.com	Platinum	12500
+U002	Siti Zulaiha	Malaysia	Johor	siti.zulaiha@yahoo.com	Gold	6800
+U003	Tan Wei Ming	Malaysia	Penang	wei.ming@gmail.com	Gold	5300
+U004	Nur Aisyah	Malaysia	Sabah	aisyah.sabah@hotmail.com	Silver	3400
+U005	Daniel Lim	Malaysia	Sarawak	daniel.lim@mail.com	Silver	2900
+U006	Harith Iqmal	Malaysia	Kedah	harith.iqmal@ezmain.com	Silver	1500
+U007	Aina Husna	Malaysia	Perak	aina.husna@aol.com	Gold	7200
+U008	Farah Nadia	Malaysia	Negeri Sembilan	farah.nadia@yahoo.com	Platinum	10100
+U009	Muhammad Iqbal	Malaysia	Melaka	iqbal.melaka@gmail.com	Silver	4100
+U010	Kavita Devi	Malaysia	Pahang	kavita.devi@hotmail.com	Silver	1200
